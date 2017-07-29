@@ -18,10 +18,10 @@
     <None Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CodeCacheDetectionByCode.cpp">
+    <ClCompile Include="MemUpdateMapInformations.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="MemUpdateMapInformations.cpp">
+    <ClCompile Include="ActiveDetectionPinWithFEEDBEAF.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
